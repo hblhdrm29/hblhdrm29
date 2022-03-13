@@ -41,6 +41,6 @@ I'm a <code>**Software Developer**</code> who is passionate about making <code>*
 <details>
   <summary><b>📫 Reach me on</b></summary>
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/hblhdrm29/)
+ [![Twitter](https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://https://twitter.com/hblhdrm29/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hblhdrm29/)
 </details>
