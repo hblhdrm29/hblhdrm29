@@ -6,12 +6,13 @@ I'm a <code>**Software Developer**</code> who is passionate about making <code>*
 <!-- End of About me -->
 ## :trophy: Award ![Award](https://img.shields.io/badge/Dicoding-Best%20Capstone-blue)
 <a  href="https://github.com/hblhdrm29/gampah_reckless_waste_reporting_system">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bintaaaa&repo=gampah_reckless_waste_reporting_system" alt="GitHub Stats" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hblhdrm29&repo=gampah_reckless_waste_reporting_system" alt="GitHub Stats" />
     </a>
     <a  href="https://github.com/hblhdrm29/gampah_reckless_waste_reporting_system">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bintaaaa&repo=gampah_backend" alt="GitHub Stats" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hblhdrm29&repo=gampah_backend" alt="GitHub Stats" />
     </a>
 <!-- Reach me on -->
+
 <!-- End of Reach me on -->
 <!-- Github Statistics -->
 ## 📈 hblhdrm29 Statistic ![Profile View Counter](https://komarev.com/ghpvc/?username=hblhdrm29&color=green)
