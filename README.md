@@ -1,7 +1,7 @@
 <h1 align="center">Hi there , I'm Habillah Darma👋</h1>
 
 <!-- Banner -->
-![TiangListrik Banner](./75323963_p0_master1200.jpg)
+![THE TRUTH](./862091.jpg)
 <!-- End of Banner -->
 <!-- About me -->
 <!--
