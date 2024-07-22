@@ -1,7 +1,7 @@
 <h1 align="center">Hi there , I'm Habillah Darma👋</h1>
 
 <!-- Banner -->
-![WhatsApp Image 2024-07-22 at 08.39.42.jpeg](https://github.com/hblhdrm29/hblhdrm29/assets/99601673/ac9a9621-baea-47ca-9680-d324b745699d)
+![WhatsApp Image 2024-07-22 at 08.39.42.jpeg](https://github.com/hblhdrm29/hblhdrm29/blob/main/WhatsApp%20Image%202024-07-22%20at%2008.39.42.jpeg)
 
 <!-- End of Banner -->
 <!-- About me -->
