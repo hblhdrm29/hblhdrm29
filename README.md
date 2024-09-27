@@ -44,5 +44,5 @@ I'm a <code>**Software Developer**</code> who is passionate about making <code>*
 
  [![Twitter](https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hblhdrm29/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hblhdrm29/)
- [![Linktree](linktr.ee/hdhmmz)
+ [![Linktree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](linktr.ee/hdhmmz)
 </details>
